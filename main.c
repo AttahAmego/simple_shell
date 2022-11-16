@@ -2,7 +2,7 @@
 
 /**
  * free_data - frees data structure
- *
+ * Authors: Jerome Umoh & Attah Amego
  * @datash: data structure
  * Return: no return
  */
